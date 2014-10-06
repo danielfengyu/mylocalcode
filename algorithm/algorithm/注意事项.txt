@@ -1,0 +1,9 @@
+char str1[] = "abc";
+char str2[] = "abc";
+const char str3[] = "abc"; 
+const char str4[] = "abc"; 
+const char* str5 = "abc";
+const char* str6 = "abc";
+cout << boolalpha<< ( str1==str2 ) << endl; // 输出什么？false
+cout << boolalpha << ( str3==str4 ) << endl; // 输出什么？false
+cout << boolalpha << ( str5==str6 ) << endl; // 输出什么？true
