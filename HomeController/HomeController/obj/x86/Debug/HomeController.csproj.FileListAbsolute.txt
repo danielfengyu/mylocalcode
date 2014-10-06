@@ -1,6 +1,0 @@
-H:\Projects\HomeController\HomeController\bin\Debug\HomeController.exe
-H:\Projects\HomeController\HomeController\bin\Debug\HomeController.pdb
-H:\Projects\HomeController\HomeController\obj\x86\Debug\HomeController.Properties.Resources.resources
-H:\Projects\HomeController\HomeController\obj\x86\Debug\HomeController.csproj.GenerateResource.Cache
-H:\Projects\HomeController\HomeController\obj\x86\Debug\HomeController.exe
-H:\Projects\HomeController\HomeController\obj\x86\Debug\HomeController.pdb
